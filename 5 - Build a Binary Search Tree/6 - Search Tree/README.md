@@ -4,7 +4,7 @@ It's time to reap the rewards of creating our binary search tree. That's right, 
 
 Let's use the sort order to find nodes in the tree. For instance, if we were searching for the node 4:
 
-<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../../../img/searchNode1.png">
+<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../img/searchNode1.png">
 
 1. We start at the root `5`, recognize that `4` is less than `5` so we move left. 👈
 
@@ -16,7 +16,7 @@ If we search for a missing node, we return `false`.
 
 For instance if we were looking for `7` on this tree:
 
-<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../../../img/searchNode2.png">
+<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../img/searchNode2.png">
 
 ☝️ After recognizing that 7 is greater than 5, we attempt to move right, but there is no right node! We return false.
 

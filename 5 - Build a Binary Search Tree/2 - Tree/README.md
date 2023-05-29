@@ -4,7 +4,7 @@ Now it's time to create our Tree! 🌲
 
 A tree will keep track of one property: a reference to the `root` node.
 
-<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../../../img/creatingTree.png">
+<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../img/creatingTree.png">
 
 The node should contain data, which in this case is `5`. It should also contain references to the left child `(3)` and the right child `(7)`.
 

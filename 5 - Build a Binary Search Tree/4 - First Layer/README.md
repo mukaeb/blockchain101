@@ -6,7 +6,7 @@ Now it's time to focus on adding the first layer of nodes underneath our root!
 
 Keep the code you used to pass the last stage and then add another case for when a root already exists:
 
-<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../../../img/firstLayer.png">
+<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../img/firstLayer.png">
 
 When the root already exists, we'll need to decide which side to add the new leaf node to.
 

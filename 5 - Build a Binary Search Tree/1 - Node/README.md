@@ -2,7 +2,7 @@
 
 Let's first create the class Node, from which we will create each element inside of our tree:
 
-<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../../../img/creatingNode.png">
+<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../img/creatingNode.png">
 
 The node should contain data, which in this case is `5`. It should also contain references to the left child `(3)` and the right child `(7)`.
 

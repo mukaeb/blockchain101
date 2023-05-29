@@ -4,7 +4,7 @@ In this stage we'll create a new method for adding nodes to our tree. This is a 
 
 First let's start by **`adding a root`** to an empty tree.
 
-<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../../../img/addRoot.png">
+<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../img/addRoot.png">
 
 ## 🏁 Your Goal: Add Node Method
 

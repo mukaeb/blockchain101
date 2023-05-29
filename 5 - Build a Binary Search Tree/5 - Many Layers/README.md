@@ -2,7 +2,7 @@
 
 Now it's time to make our `addNode` function work for many layers of the tree:
 
-<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../../../img/manyLayers.png">
+<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../img/manyLayers.png">
 
 > 🔍 You can do this iteratively or recursively! For help on designing your solution, check out details.
 
